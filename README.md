@@ -1,4 +1,4 @@
-### Welcome to my profile ![Zenitsu](https://i.pinimg.com/originals/e6/64/67/e664672a267f979bcee86fa800849a71.gif)
+### Welcome to my profile ![Zenitsu](https://media0.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif)
 
 👽About me
   - Front-end developer React Native/ReactJS
