@@ -1,4 +1,4 @@
-### Welcome to my profile <img src="https://media0.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif" width="50" height="50" />
+### Welcome to my profile <img src="https://media0.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif" width="100" height="100" />
 
 👽About me
   - Front-end developer React Native/ReactJS
