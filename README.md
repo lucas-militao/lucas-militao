@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://c.tenor.com/XLRs8m9u9ikAAAAj/inosuke-demon-slayer.gif" width="50" height="50" /> Welcome <img src="https://c.tenor.com/XLRs8m9u9ikAAAAj/inosuke-demon-slayer.gif" width="50" height="50" /></h1>
 
 ```javascript
-const WhoAmI = {
+const whoami = {
   pronouns: "he" | "him",
   user: "Lucas Militão",
   role: "frontend",
