@@ -11,8 +11,8 @@ const whoami = {
   hobbies: [
    "Studying",
    "Search for new technology channels, videos or podcasts",
-   "Watching Anime",
-   "Playing Video Games",
+   "Watch Anime",
+   "Play Video Games",
    "Play the guitar and sing"]
 }
 
