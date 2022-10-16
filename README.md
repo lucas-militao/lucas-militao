@@ -6,8 +6,8 @@
 const whoami = {
   pronouns: "he" | "him",
   user: "Lucas Militão",
-  role: "frontend",
-  current_edu: "Rocketseat",
+  role: "Salesforce developer",
+  current_edu: "Accenture",
   hobbies: [
    "Studying",
    "Search for new technology channels, videos or podcasts",
